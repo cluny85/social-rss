@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  
+  <channel>
+    <!-- === PODCAST GENERAL INFORMATION === -->
+    <!-- Replace all placeholder content with your own information. -->
+    
+    <title>Daily Ultracondensed News from Spain and the World compressed in less than 5 minutes!</title>
+    <!-- <link>https://www.yourwebsite.com</link> -->
+    <language>en-us</language>
+    <description>No bias, just fact news with a small touch of humor 😊 **Disclaimer**: Could contains AI hallucinations</description>
+    
+    <!-- Podcast Owner Information -->
+    <itunes:owner>
+      <itunes:name>Daily Ultracondensed News</itunes:name>
+      <itunes:email>social.news.bot@gmail.com</itunes:email>
+    </itunes:owner>
+    
+    <!-- Podcast Author -->
+    <itunes:author>Daily Ultracondensed News</itunes:author>
+    
+    <!-- Podcast Cover Art (must be a square JPG or PNG, 1400x1400 to 3000x3000 pixels) -->
+    <!-- <itunes:image href="https://www.yourwebsite.com/images/podcast-cover.jpg"/> -->
+    
+    <!-- Podcast Category (find valid categories on Apple's podcast documentation) -->
+    <itunes:category text="News">
+      <itunes:category text="Daily News" />
+    </itunes:category> 
+    
+    <!-- 'yes' if it contains explicit content, otherwise 'no' -->
+    <itunes:explicit>no</itunes:explicit>
+
+
+  </channel>
+</rss>
