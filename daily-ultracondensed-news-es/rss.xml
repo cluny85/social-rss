@@ -33,5 +33,14 @@
     <itunes:explicit>no</itunes:explicit>
 
 
-  </channel>
+  
+<item>
+  <title>🇪🇸Ultracondensed news from September 30, 2025</title>
+  <description>Here are the sources for today's ultra condensed news summary...</description>
+  <pubDate>Tue, 30 Sep 2025 19:51:57 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1OJLC7sXDMBwnvhCjoyVl7BEhp2o2z_RC" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1759261917824</guid>
+</item>
+
+</channel>
 </rss>
