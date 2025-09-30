@@ -22,7 +22,7 @@
     <itunes:author>Daily Ultracondensed News</itunes:author>
     
     <!-- Podcast Cover Art (must be a square JPG or PNG, 1400x1400 to 3000x3000 pixels) -->
-    <itunes:image href="https://cluny85.github.io/social-rss/daily-ultracondensed-news-es/logo.jpeg"/>
+    <itunes:image href="https://cluny85.github.io/social-rss/daily-ultracondensed-news-es/logo-large.jpeg"/>
     
     <!-- Podcast Category (find valid categories on Apple's podcast documentation) -->
     <itunes:category text="News">
